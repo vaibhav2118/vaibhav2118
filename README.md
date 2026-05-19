@@ -1,49 +1,53 @@
-<h1 align="center">Hi 👋, I'm Vaibhav Salegave</h1>
+<div align="center">
 
-<h3 align="center">
-AI/ML Engineer • Full Stack Developer • Data Scientist • QA Engineer • UI/UX Developer
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f0c29,50:302b63,100:24243e&text=Vaibhav%20Salegave&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<p align="center">
-Building scalable AI-driven systems, intelligent web platforms, and user-focused digital experiences.
-</p>
+</div>
 
----
+<div align="center">
 
-# 🚀 Tech Domains
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI%2FML+Engineer;Full+Stack+Developer;Data+Scientist;QA+Engineer;UI%2FUX+Developer;Reinforcement+Learning+Developer"/>
 
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- NLP
-- Reinforcement Learning
-- Full Stack Development
-- Data Science & Analytics
-- Software Testing & QA
-- UI/UX Engineering
+</div>
 
 ---
 
-# 💻 Core Tech Stack
+<div align="center">
 
-## 👨‍💻 Languages
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjR0N2RqM2k5YWg4M3V2dWR1M3V0a2g2Y2Q1OW5mOWx4aWFhN3Y1NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="350"/>
 
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk)
-![C++](https://img.shields.io/badge/C++-000?style=for-the-badge&logo=cplusplus)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)
+</div>
 
 ---
 
-## 🤖 AI / ML / Data Science
+# 💫 About Me
 
-![PyTorch](https://img.shields.io/badge/PyTorch-000?style=for-the-badge&logo=pytorch)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-000?style=for-the-badge&logo=tensorflow)
-![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-000?style=for-the-badge&logo=scikitlearn)
-![OpenCV](https://img.shields.io/badge/OpenCV-000?style=for-the-badge&logo=opencv)
-![Pandas](https://img.shields.io/badge/Pandas-000?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-000?style=for-the-badge&logo=numpy)
+- 🎓 Final-Year B.Tech Student in Artificial Intelligence & Data Science
+- 🤖 Building AI-Driven Systems & Intelligent Applications
+- 🚀 Exploring LLMs, Reinforcement Learning & Scalable Architectures
+- 🌐 Developing Full Stack Platforms & Automation Systems
+- 🧪 Passionate About Software Quality Engineering & Testing
+- 🎨 Creating User-Centered UI/UX Experiences
+
+---
+
+# ⚡ Tech Domains
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,c,react,nodejs,fastapi,mongodb,mysql,tensorflow,pytorch,docker,git,figma,aws"/>
+
+</div>
+
+---
+
+# 🧠 AI / ML / Data Science
+
+<div align="center">
+
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=AI%20%26%20Data%20Stack&align=center&titleAlign=center&lineCount=2&theme=github_dark&line1=pytorch,pytorch,tensorflow,tensorflow,opencv,opencv,pandas,pandas;numpy,numpy,scikitlearn,scikitlearn,jupyter,jupyter,python,python"/>
+
+</div>
 
 ### Areas
 
@@ -53,19 +57,18 @@ Building scalable AI-driven systems, intelligent web platforms, and user-focused
 - Reinforcement Learning
 - Computer Vision
 - Predictive Modeling
-- EDA
 - Statistical Analysis
+- EDA & Data Visualization
 
 ---
 
-## 🌐 Full Stack Development
+# 🌐 Full Stack Development
 
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
-![React Native](https://img.shields.io/badge/React_Native-000?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
-![FastAPI](https://img.shields.io/badge/FastAPI-000?style=for-the-badge&logo=fastapi)
-![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,mongodb,mysql,html,css,javascript"/>
+
+</div>
 
 ### Backend & APIs
 
@@ -77,43 +80,38 @@ Building scalable AI-driven systems, intelligent web platforms, and user-focused
 
 ---
 
-## 🎨 UI / UX
+# 🎨 UI / UX Engineering
 
-![Figma](https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma)
-![Adobe XD](https://img.shields.io/badge/AdobeXD-000?style=for-the-badge&logo=adobexd)
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=figma,xd"/>
+
+</div>
 
 - Wireframing
 - Prototyping
 - Interaction Design
 - Design Systems
-- Usability Testing
 - Responsive UI Design
+- Usability Testing
 
 ---
 
-## 🧪 Software Testing & QA
+# 🧪 QA & Software Testing
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=selenium,postman"/>
+
+</div>
 
 - Functional Testing
 - Regression Testing
 - Smoke Testing
 - SDLC / STLC
 - Bug Tracking
-- Selenium
-- TestNG
-- Postman API Testing
-
----
-
-# ⚙️ Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
-![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
-![AWS](https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=amazonaws)
-
-- CARLA Simulator
-- Gymnasium
-- Stable-Baselines3
-- TensorBoard
+- Selenium Automation
+- API Testing
 
 ---
 
@@ -121,137 +119,139 @@ Building scalable AI-driven systems, intelligent web platforms, and user-focused
 
 ## 🚗 Neuro Drive
 
-RL-based autonomous driving system using PPO in CARLA Simulator.
+> Reinforcement Learning based autonomous driving system using PPO in CARLA Simulator.
 
-### Stack
+<div align="center">
 
-Python • CARLA • PPO • OpenCV • PyTorch • TensorBoard
+<img src="https://img.shields.io/badge/CARLA-Simulator-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PPO-RL-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenCV-ComputerVision-orange?style=for-the-badge"/>
+
+</div>
 
 ### Features
 
 - Lane Tracking
 - Collision Avoidance
 - Reward Engineering
-- Real-time Training Monitoring
+- RL Training Monitoring
 
 ---
 
 ## 🧪 TestGenie
 
-AI-powered QA copilot for automated testing workflows.
+> AI-powered QA copilot for automated testing workflows.
 
 ### Stack
 
-FastAPI • Playwright • OpenAI API • Node.js • WebSockets
+- FastAPI
+- Playwright
+- OpenAI API
+- Node.js
+- WebSockets
 
 ### Features
 
 - AI-driven Testing
 - Regression Detection
-- Real-time Monitoring
 - Automated Web Testing
+- Real-time Monitoring
 
 ---
 
 ## 📦 Parcel Vault
 
-Cloud-connected smart parcel management system.
-
-### Stack
-
-React.js • React Native • FastAPI • MQTT • AWS IoT Core • ESP32
+> Cloud-connected smart parcel management platform.
 
 ### Features
 
 - Remote Lock/Unlock
 - AI-based Alerts
 - Cloud Connectivity
-- Real-time Notifications
-
----
-
-## 📰 Fake News Detector
-
-Transformer-based fake news classification platform.
-
-### Stack
-
-Python • Django • BERT • Scikit-Learn
-
-### Features
-
-- Text Preprocessing
-- BERT Classification
-- Web Dashboard
-- API Integration
-
----
-
-# 💼 Experience
-
-## QA Intern — Lazfort Studio
-
-- Manual Testing
-- Regression Testing
-- Defect Tracking
-- Test Case Design
-- Bug Verification
-
----
-
-## Data Science & ML Intern — YBI Foundation
-
-- EDA
-- Predictive Modeling
-- Data Preprocessing
-- Model Evaluation
-
----
-
-# 📜 Certifications
-
-- Software Testing — IIT Kharagpur
-- System & Usable Security — IIT Indore
-- Design Thinking — IIT Madras
-- Business Intelligence & Analyst
-- Full Stack Web Development Bootcamp
-
----
-
-# 🏆 Achievements
-
-- Winner — MLSC Competition 2024
-- 2nd Prize — IoT Project Competition 2024
-- UI/UX Hackathon Participant
-- Board of Director — Elite Club India NGO
-- NSS Volunteer
+- IoT Notifications
 
 ---
 
 # 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaibhav2118&show_icons=true&theme=tokyonight"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhav2118&theme=tokyonight"/>
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vaibhav2118&show_icons=true&theme=tokyonight&border_radius=15"/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav2118&layout=compact&theme=tokyonight"/>
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav2118&layout=compact&theme=tokyonight&border_radius=15"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhav2118&theme=tokyonight&border_radius=15"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=vaibhav2118&theme=tokyonight&row=1&column=7"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhav2118&theme=tokyo-night"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake Animation
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
 
 ---
 
 # 🌐 Connect With Me
 
-- Email: vaibhavsalegave@gmail.com
-- LinkedIn: https://www.linkedin.com/in/vaibhav-salegave-16126638b
-- GitHub: https://github.com/vaibhav2118
+<div align="center">
+
+<a href="https://github.com/vaibhav2118">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/vaibhav-salegave-16126638b">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:vaibhavsalegave@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+</div>
 
 ---
 
-<p align="center">
-⚡ Engineering Intelligent Systems Across AI, Data, Development & Testing ⚡
-</p>
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=vaibhav2118&style=for-the-badge&color=blueviolet"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Engineering Intelligent Systems Across AI, Data, Development & Testing ⚡
+
+</div>
